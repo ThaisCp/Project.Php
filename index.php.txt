@@ -1,0 +1,19 @@
+<?php
+
+define ("ip","127.0.0.1");
+echo ip;
+
+
+echo "<br>";
+$x =3;
+echo $x;
+
+echo "<br>";
+echo "<br>Hello Word";
+
+echo "<br>";
+$num1 = 1;
+$num2 = 2;
+echo ("A soma total é".$num1 + $num2);
+
+echo "<br>";
